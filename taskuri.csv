@@ -1,5 +1,5 @@
-,Task,Data,Persoana_Responsabila,Categorie
-0,Mananca,2022-10-02,Andrei,Actiune
-1,Mergi,2021-10-02,Ioana,Plimbare
-2,Dormi,2020-10-02,Cristina,Odihna
-3,Visezi,2019-10-02,Marian,Odihna
+Unnamed: 0,Task,Data,Persoana_Responsabila,Categorie,DataLimita,PersoanaResponsabila
+0.0,Mergi,2022-10-02,Andrei,Actiune,,
+1.0,Mergi,2021-10-02,Ioana,Plimbare,,
+2.0,Dormi,2020-10-02,Cristina,Odihna,,
+3.0,Visezi,2019-10-02,Marian,Odihna,,
